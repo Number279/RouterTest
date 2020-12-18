@@ -9,6 +9,7 @@ render(){
         <Link to = "/">Home</Link>
         <Link to = "/menu">Menu</Link>
         <Link to = "/about">About</Link>
+        <Link to = "/tictactoe">Play TicTacToe!</Link>
         
     </div>
         );
